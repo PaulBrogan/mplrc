@@ -1,13 +1,8 @@
 How To Install mplrc
 ======================
 
-mplrc uses Python Distutils for installation. Installers are available for 
-some platforms. 
+Just stick the IEEEformat.py in your python libary, 
+one of the system path folders or in the current working directory.
 
-
-you can install from a source distribution (.tar.gz or .zip) by:
-
-1. Unpack the archive file.
-
-2. run 'python setup.py install' (without the quotes)
+This might be a bit noob-y but hey, it works. 
 
